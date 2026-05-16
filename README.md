@@ -10,7 +10,7 @@ Currently at PT Nawa Data Solutions, Yogyakarta — doing software quality assur
 
 **Quality Assurance**
 - test case design, defect tracking, regression testing
-- API testing with Postman, performance testing with JMeter
+- Automation testing with Katalon Studio, API testing with Postman, performance testing with JMeter
 - building an AI-powered test recommender to automate some of my own job
 
 **AI / ML**
