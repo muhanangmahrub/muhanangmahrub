@@ -1,29 +1,70 @@
-# AI & Machine Learning Enthusiast | Software Quality Assurance | Continuous Learner
+# Muhammad Anang Mahrub
 
-Heyooo!!!
-I’m passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**. I love exploring **computer vision** and **natural language processing (NLP)** through hands-on projects to deepen my skills and knowledge.
+QA engineer who got too curious about the models he was testing.
 
-During university and an AI internship, I gained real-world experience building and experimenting with ML and deep learning models.
-
-With a background in **Software Quality Assurance (SQA)**, I’ve contributed to banking and financial projects — creating test cases, tracking bugs, and ensuring secure, accurate, and compliant software delivery.
-
-Driven by curiosity and continuous learning, I enjoy:
-- Experimenting with AI solutions and optimizing models  
-- Exploring the latest tools and frameworks  
-- Sharing what I learn through projects and open-source work
+Currently at PT Nawa Data Solutions, Yogyakarta — doing software quality assurance on banking and fintech projects while building AI/ML stuff on the side. The QA background helps more than I expected: thinking about edge cases before writing a model turns out to be a useful habit.
 
 ---
 
-## Tech Stack
+## what I work on
 
-- **AI/ML:** Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Hugging Face  
-- **SQA:** Katalon Studio, JMeter, Postman, Excel, Test case design, defect tracking
-- **Tools:** Git, Docker, FastAPI, Jupyter
+**Quality Assurance**
+- test case design, defect tracking, regression testing
+- API testing with Postman, performance testing with JMeter
+- building an AI-powered test recommender to automate some of my own job
 
-## Github Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhanangmahrub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhanangmahrub&layout=compact&theme=algolia"/>
-</a>
-</p>
+**AI / ML**
+- NLP: NER (CRF, spaCy, BERT), sentiment analysis, topic modeling
+- RAG & LLM: document assistant with vector embeddings + OpenAI
+- computer vision: image classification, GAN colorization, sign language recognition
+- MLOps: GCP Vertex AI, Cloud Build CI/CD, Docker
+- full-stack ML apps: React + FastAPI + scikit-learn, a few already live on Vercel
+
+---
+
+## stack
+
+Python · PyTorch · TensorFlow · scikit-learn · Hugging Face · spaCy · BERT · OpenCV  
+FastAPI · Flask · Docker · GCP · React · TypeScript · Flutter  
+Katalon Studio · JMeter · Postman
+
+---
+
+## projects
+
+**[AI Tester Recommender](https://github.com/muhanangmahrub/ai_tester_recommender)**
+AI that recommends test scenarios. Built with a modular architecture: agents, parsers, schemas, tools. Basically me trying to automate part of my QA work.
+
+**[Risetnesia Tryout](https://github.com/muhanangmahrub/risetnesia-tryout-fastapi-react)** · [demo](https://risetnesia-tryout-fastapi-react.vercel.app)
+Online exam/tryout app. TypeScript + FastAPI, live on Vercel.
+
+**[RAG Document Assistant](https://github.com/muhanangmahrub/RAG-based-Document-Assistant-with-Vector-Embeddings-Deeplake-and-OpenAI)**
+PDF chatbot. DeepLake for vector store, TF-IDF + cosine similarity as a utility layer, Gradio for the UI.
+
+**[NER Multi-Architecture](https://github.com/muhanangmahrub/named-entity-recognizer-aps)**
+Compared CRF vs spaCy vs fine-tuned BERT for named entity recognition. BERT won at F1 96.7%. Comes with a FastAPI backend and TypeScript frontend.
+
+**[Career Path Navigator](https://github.com/muhanangmahrub/Career-Path-Navigator)** · [demo](https://demo-frontend-chi-eight.vercel.app/)
+Input your background and skills, get career role recommendations. React + FastAPI + ML, live.
+
+**[AI Traffic Alerting API](https://github.com/muhanangmahrub/AI-Powered-Traffic-Alerting-API)** · [demo](https://ai-powered-traffic-alerting-api.vercel.app)
+AI-based traffic alerting API.
+
+**[Image Colorization with GAN](https://github.com/muhanangmahrub/image_colorization_using_GAN)**
+Colorizing grayscale images using a GAN.
+
+**[Sign MNIST Classification](https://github.com/muhanangmahrub/sign_mnist_classification)**
+Sign language classification from the Sign MNIST dataset.
+
+**[Taxi Price Prediction — GCP](https://github.com/muhanangmahrub/taxi-price-prediction-gcp)**
+Taxi fare prediction model, containerized with Docker, deployed to GCP Vertex AI.
+
+**[CloudBuild CI/CD MLOps](https://github.com/muhanangmahrub/cloudbuild-cicd-mlops)**
+CI/CD pipeline setup for ML projects on GCP Cloud Build.
+
+more: [build-agent-series](https://github.com/muhanangmahrub/build-agent-series) · [topic-modeling](https://github.com/muhanangmahrub/topic-modeling) · [sentiment analysis](https://github.com/muhanangmahrub/proyek_sentimen_analysis) · [customer churn](https://github.com/muhanangmahrub/predict_customer_churn) · [app behavior](https://github.com/muhanangmahrub/app_behavior_analysis) · [disease prediction](https://github.com/muhanangmahrub/Erythemato-Squamous-Disease-Prediction) · [bike sharing EDA](https://github.com/muhanangmahrub/bike-sharing-analysis-using-python) · and some Flutter apps from 2024
+
+---
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=muhanangmahrub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhanangmahrub&layout=compact&theme=algolia)
