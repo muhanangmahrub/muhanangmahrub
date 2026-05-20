@@ -9,16 +9,16 @@ Currently at PT Nawa Data Solutions, Yogyakarta — doing software quality assur
 ## What I work on
 
 **Quality Assurance**
-- test case design, defect tracking, regression testing
+- Test case design, defect tracking, regression testing
 - Automation testing with Katalon Studio, API testing with Postman, performance testing with JMeter
-- building an AI-powered test recommender to automate some of my own job
+- Building an AI-powered test recommender to automate some of my own job
 
 **AI / ML**
 - NLP: NER (CRF, spaCy, BERT), sentiment analysis, topic modeling
 - RAG & LLM: document assistant with vector embeddings + OpenAI
-- computer vision: image classification, GAN colorization, sign language recognition
+- Computer vision: image classification, GAN colorization, sign language recognition
 - MLOps: GCP Vertex AI, Cloud Build CI/CD, Docker
-- full-stack ML apps: React + FastAPI + scikit-learn, a few already live on Vercel
+- Full-stack ML apps: React + FastAPI + scikit-learn, a few already live on Vercel
 
 ---
 
@@ -62,9 +62,11 @@ Taxi fare prediction model, containerized with Docker, deployed to GCP Vertex AI
 **[CloudBuild CI/CD MLOps](https://github.com/muhanangmahrub/cloudbuild-cicd-mlops)**
 CI/CD pipeline setup for ML projects on GCP Cloud Build.
 
-more: [build-agent-series](https://github.com/muhanangmahrub/build-agent-series) · [topic-modeling](https://github.com/muhanangmahrub/topic-modeling) · [sentiment analysis](https://github.com/muhanangmahrub/proyek_sentimen_analysis) · [customer churn](https://github.com/muhanangmahrub/predict_customer_churn) · [app behavior](https://github.com/muhanangmahrub/app_behavior_analysis) · [disease prediction](https://github.com/muhanangmahrub/Erythemato-Squamous-Disease-Prediction) · [bike sharing EDA](https://github.com/muhanangmahrub/bike-sharing-analysis-using-python) · and some Flutter apps from 2024
+More: [build-agent-series](https://github.com/muhanangmahrub/build-agent-series) · [topic-modeling](https://github.com/muhanangmahrub/topic-modeling) · [sentiment analysis](https://github.com/muhanangmahrub/proyek_sentimen_analysis) · [customer churn](https://github.com/muhanangmahrub/predict_customer_churn) · [app behavior](https://github.com/muhanangmahrub/app_behavior_analysis) · [disease prediction](https://github.com/muhanangmahrub/Erythemato-Squamous-Disease-Prediction) · [bike sharing EDA](https://github.com/muhanangmahrub/bike-sharing-analysis-using-python) · and some Flutter apps from 2024
 
 ---
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=muhanangmahrub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhanangmahrub&layout=compact&theme=algolia)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhanangmahrub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="53%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhanangmahrub&layout=compact&theme=algolia" width="41%" />
+</p>
