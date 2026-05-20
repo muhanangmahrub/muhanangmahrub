@@ -6,7 +6,7 @@ Currently at PT Nawa Data Solutions, Yogyakarta — doing software quality assur
 
 ---
 
-## what I work on
+## What I work on
 
 **Quality Assurance**
 - test case design, defect tracking, regression testing
@@ -22,7 +22,7 @@ Currently at PT Nawa Data Solutions, Yogyakarta — doing software quality assur
 
 ---
 
-## stack
+## Stack
 
 Python · PyTorch · TensorFlow · scikit-learn · Hugging Face · spaCy · BERT · OpenCV  
 FastAPI · Flask · Docker · GCP · React · TypeScript · Flutter  
@@ -30,12 +30,12 @@ Katalon Studio · JMeter · Postman
 
 ---
 
-## projects
+## Projects
 
 **[AI Tester Recommender](https://github.com/muhanangmahrub/ai_tester_recommender)**
 AI that recommends test scenarios. Built with a modular architecture: agents, parsers, schemas, tools. Basically me trying to automate part of my QA work.
 
-**[Risetnesia Tryout](https://github.com/muhanangmahrub/risetnesia-tryout-fastapi-react)** · [demo](https://risetnesia-tryout-fastapi-react.vercel.app)
+**[Risetnesia Tryout](https://github.com/muhanangmahrub/risetnesia-tryout-fastapi-react)**
 Online exam/tryout app. TypeScript + FastAPI, live on Vercel.
 
 **[RAG Document Assistant](https://github.com/muhanangmahrub/RAG-based-Document-Assistant-with-Vector-Embeddings-Deeplake-and-OpenAI)**
@@ -44,10 +44,10 @@ PDF chatbot. DeepLake for vector store, TF-IDF + cosine similarity as a utility 
 **[NER Multi-Architecture](https://github.com/muhanangmahrub/named-entity-recognizer-aps)**
 Compared CRF vs spaCy vs fine-tuned BERT for named entity recognition. BERT won at F1 96.7%. Comes with a FastAPI backend and TypeScript frontend.
 
-**[Career Path Navigator](https://github.com/muhanangmahrub/Career-Path-Navigator)** · [demo](https://demo-frontend-chi-eight.vercel.app/)
+**[Career Path Navigator](https://github.com/muhanangmahrub/Career-Path-Navigator)**
 Input your background and skills, get career role recommendations. React + FastAPI + ML, live.
 
-**[AI Traffic Alerting API](https://github.com/muhanangmahrub/AI-Powered-Traffic-Alerting-API)** · [demo](https://ai-powered-traffic-alerting-api.vercel.app)
+**[AI Traffic Alerting API](https://github.com/muhanangmahrub/AI-Powered-Traffic-Alerting-API)**
 AI-based traffic alerting API.
 
 **[Image Colorization with GAN](https://github.com/muhanangmahrub/image_colorization_using_GAN)**
